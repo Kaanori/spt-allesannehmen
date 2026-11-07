@@ -1,5 +1,7 @@
 # AllesAnnehmen (accept all) — SPT 4.1.6
 
+> **Now part of [Kaan's QoL](https://github.com/Kaanori/spt-kaansqol)** – this module is included there (with your settings migrated automatically). This stand-alone version is no longer updated.
+
 Collects **all attachments from all traders at once** from the messenger
 window and puts them **directly into the stash**. No hand-over window, no
 dragging with the mouse, no clicking through trader after trader.
